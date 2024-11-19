@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+After seven years of deep dive into the automotive sensor field, I received my Master's degree from Tianjin University majoring in EE (focused on LIDAR), and PhD's degree from the University of Birmingham with extensive research conducted in the area of automotive radar. With research experiences in academia, I started the adventure in the automotive industry since I joined the subsidiary of zf group - 2getthere in 2022. I am currently working on R&D of the Level-4 autonomous driving shuttle vehicles as a R&D software engineer, and dedicated to the software development of extrinsic sensor calibration and radar perception. 
 
-A data-driven personal website
+My core competencies include sensor fusion, sensor calibration, object detection and tracking, automotive radar systems, image processing/segmenation, machine learning, industrial software developement on c++ and low-terahertz (Low-THz) technology. I have published multiple papers in prestigious journals and conferences and obtained several certifications and honors related to machine learning, deep neural networks, software safety, matlab, and C++. 
+
+In my professional domain, I am passionate about developing innovative and robust solutions for autonomous driving and mobility. In my life, I love to explore all the tiny beauties in daily life - music, cuisine, and traveling.
+
+Recent news
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
