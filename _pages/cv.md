@@ -22,7 +22,7 @@ Work experience
   * Duties includes: 
     * Software development experience follows V-model and based on C++. Include requirements, architecture, detailed design, implementation, integration, onsite tests, analysis, maintenance and documentation of software system.
 
-    * R&D of radar perception and hybrid multi-modal automotive sensor calibration software products for various L-4 AD vehicle projects such as Rabus and Rivium: radar dynamic object tracking, radar objects classification, end-of-line calibration, online calibration and misalignment detection on automotive sensors. The industrialized radar perception product runs on the L4 AD vehicle which operate in both Germany and the Netherlands, and the calibration solutions achieved the high-accuracy calibration from production line to operation phase.
+    * R&D of radar perception and hybrid multi-modal automotive sensor calibration software products for various L-4 AD vehicle projects such as [Rabus](https://www.youtube.com/watch?v=isRtxSoPeFc) and [Rivium](https://www.youtube.com/watch?v=m5-rI5n6qng): radar dynamic object tracking, radar objects classification, end-of-line calibration, online calibration and misalignment detection on automotive sensors. The industrialized radar perception product runs on the L4 AD vehicle which operate in both Germany and the Netherlands, and the calibration solutions achieved the high-accuracy calibration from production line to operation phase.
 
     * Experiences and systematic training of industry-safety standards and software development guidelines (e.g. ISO26262, ISO21448, ASPICE and AUTOSAR). Daily work experience in a Scrum-based agile team.
 
