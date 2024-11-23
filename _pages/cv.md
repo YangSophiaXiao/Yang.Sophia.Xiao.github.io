@@ -11,26 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electronic, Electrical and Computer Science Engineering, University of Birmingham, UK, 2022
+* Master of Communication Engineering, Tianjin University, China, 2016
+* Bachelor of Communication Engineering (postgraduate recommendation), Tianjin University, China, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Nov. 2022: Research and development software engineer
+  * ZF group, hybrid in Utrecht, the Netherlands
+  * Duties includes: 
+  1) Software development experience follows V-model and based on C++. Include requirements, architecture, detailed design, implementation, integration, onsite tests, analysis, maintenance and documentation of software system.
+  2) R&D of radar perception and hybrid multi-modal automotive sensor calibration software products for various L-4 AD vehicle projects such as Rabus and Rivium: radar dynamic object tracking, radar objects classification, end-of-line calibration, online calibration and misalignment detection on automotive sensors. The industrialized radar perception product runs on the L4 AD vehicle which operate in both Germany and the Netherlands, and the calibration solutions achieved the high-accuracy calibration from production line to operation phase.
+  3) Experiences and systematic training of industry-safety standards and software development guidelines (e.g. ISO26262, ISO21448, ASPICE and AUTOSAR). Daily work experience in a Scrum-based agile team.
+  4) Theoretical knowledge and code implementation on algorithms of automotive sensor signal processing, image processing, image segmentation, geometric perception, machine learning, linear algebra and robust optimization.
+  * Supervisor: Aless Lasaruk (tech lead) && Dr. Emi Mathews (line manager)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun. 2022: Computing technology consultant
+  * Huawei Belgium NV, Leuven, Belgium
+  * Duties included: Technical insight of high-performance computing (HPC) technology and summarize the strategic value and opportunity to computing business.
+  * Supervisor: Dr. Tingyao Wu
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Postdoc Researcher & Ph.D researcher
+  * University of Birmingham, UK
+  * Duties included: 
+  1) Participate in multiple autonomous driving projects collaborated with industry in the fields of cognitive vehicles, high-resolution imaging automotive radar and THz-technology.
+  2) Work on algorithms of end-to-end image segmentation, object detection, moving target tracking, image registration on high-resolution automotive radar images. Two full paper of IEEE Sensors Journal and four conference proceedings have been published or are under final review.
+  3) Theoretical study and experimental verification on automotive radar signal propagation feature on vehicle infrastructures with the innovated low-THz frequency bands. Two full papers of IEEE Sensors Journal and one conference proceedings have been published or are under final review.
+  4) Build the academic network. Oral presentations on more than five international radar conferences for eight times, and nominated as the best paper of Radar 2022 IET.
+  * Supervisor: Prof. Marina Gashinova, Prof. Mikhail Cherniakov
   
 Skills
 ======
