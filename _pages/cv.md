@@ -94,6 +94,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Best student paper nominee, Radar 2022 IET.
+* Fellowship scholarship for international Ph.D. student in University of Birmingham, 2018
+* China Scholarship Council scholarship, China, 2017
+* First scholarship for outstanding students, Tianjin University, 2014
+* The BANK OF TIANJIN scholarship, Tianjin University, 2014
+* Vice President, Graduate Students Association, Tianjin University, 2015
+* Deputy Head, Peiyang Chorus, Tianjin University, 2013
