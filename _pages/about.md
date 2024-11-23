@@ -18,7 +18,7 @@ My up-to-date CV is available [here](../files/CV_YX.pdf).
 Recent news
 =====
 
-Nov. 2024, the marketing videos of our sensor calibration products of [online calibration software](https://www.youtube.com/watch?v=5mTBcsLttQY&t=35s) and [Misalignment detetection](https://www.youtube.com/watch?v=v0upbUKoufw&t=191s) are availble in zf group official subscription!
+Nov. 2024, the marketing videos of our sensor calibration products of [online calibration software](https://www.youtube.com/watch?v=5mTBcsLttQY&t=35s) and [misalignment detetection](https://www.youtube.com/watch?v=v0upbUKoufw&t=191s) are availble in zf group official subscription!
 
 Aug. 2024, I joined the radar perception team for the R&D on radar perception software. The project is sponsered by the commercial vehicle solution (CVS) department of ZF group and collaborates with Volvo truck. The milestone achievement is our software is integrated on [RABus](https://www.youtube.com/watch?v=isRtxSoPeFc) L-4 AD vehicles for road user perception feature, and the vehicle is already under operation in Friedrichshaven urban public road! 
 
