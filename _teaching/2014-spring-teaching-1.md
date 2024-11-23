@@ -9,3 +9,5 @@ location: "Birmingham, UK"
 ---
 
 Training courses: Introduction to Learning and Teaching in Higher Education, Small Group Teaching (Labs), Large Group Teaching (Lectures), Teaching Academic Writing, and Teaching International Students.
+
+[Certificate](http://yangsophiaxiao.github.io/files/HEFI.png)
