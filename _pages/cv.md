@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Nov. 2022: Research and development software engineer
-  * ZF group, hybrid in Utrecht, the Netherlands
+  * 2getthere, a subsidiary of ZF group, in Utrecht, the Netherlands
   * Duties includes: 
     * Software development experience follows V-model and based on C++. Include requirements, architecture, detailed design, implementation, integration, onsite tests, analysis, maintenance and documentation of software system.
 
@@ -27,11 +27,12 @@ Work experience
     * Experiences and systematic training of industry-safety standards and software development guidelines (e.g. ISO26262, ISO21448, ASPICE and AUTOSAR). Daily work experience in a Scrum-based agile team.
 
     * Theoretical knowledge and code implementation on algorithms of automotive sensor signal processing, image processing, image segmentation, geometric perception, machine learning, linear algebra and robust optimization.
-  * Supervisor: Aless Lasaruk (tech lead) && Dr. Emi Mathews (line manager)
+  * Supervisor: Aless Lasaruk (tech lead), Dr. Emi Mathews (line manager)
 
 * Jun. 2022: Computing technology consultant
   * Huawei Belgium NV, Leuven, Belgium
-  * Duties included: Technical insight of high-performance computing (HPC) technology and summarize the strategic value and opportunity to computing business.
+  * Duties included
+    * Technical insight of high-performance computing (HPC) technology and summarize the strategic value and opportunity to computing business.
   * Supervisor: Dr. Tingyao Wu
 
 * Summer 2015: Postdoc Researcher & Ph.D researcher
