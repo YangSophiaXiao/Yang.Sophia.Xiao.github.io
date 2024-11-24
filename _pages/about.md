@@ -57,5 +57,5 @@ polarization modulation as a master student in OFC lab, Tianjin University.
 Miscellaneous
 ======
 
-During my leisure time, I love to explore all the tiny beauties in daily life - music, cuisine, and traveling. Up till now I have been to 20 different countries and there are still way more nice wonderful world wait me to explore. I love to play and do outdoor sports with my cool dog whose name is Marco van Delft, and I love vocal music which could always heal me from all the stresses. I enjoy a lot of making Chinese cuisine for my friends and families and spreading Chinese traditonal food cultrue to the world!
+In my leisure time, I enjoy discovering the small joys of daily life—whether it’s through music, cuisine, or traveling. So far, I’ve visited 20 different countries, and there’s still so much of this beautiful world waiting for me to explore. I also love spending time outdoors and playing sports with my amazing dog, Marco van Delft. Vocal music is another passion of mine; it has a special way of helping me unwind and heal from stress. Additionally, I take great pleasure in cooking Chinese dishes for my friends and family, sharing the rich traditions of Chinese cuisine with the world!
 
