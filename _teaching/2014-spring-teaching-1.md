@@ -1,7 +1,7 @@
 ---
 title: "HEFI Horizon Award from University of Birmingham"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching certificate from University of Birmingham"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Birmingham"
 date: 2022-05-30
