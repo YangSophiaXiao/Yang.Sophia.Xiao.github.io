@@ -27,13 +27,13 @@ Work experience
     * Experiences and systematic training of industry-safety standards and software development guidelines (e.g. ISO26262, ISO21448, ASPICE and AUTOSAR). Daily work experience in a Scrum-based agile team.
 
     * Theoretical knowledge and code implementation on algorithms of automotive sensor signal processing, image processing, image segmentation, geometric perception, machine learning, linear algebra and robust optimization.
-  * Supervisor: Aless Lasaruk (tech lead), Dr. Emi Mathews (line manager)
+  * Supervisor: [Aless Lasaruk](http://aless-lasaruk.de/) (tech lead), [Dr. Emi Mathews](https://www.linkedin.com/in/emi-mathews-4541804a/) (line manager)
 
 * Jun. 2022: Computing technology consultant
   * Huawei Belgium NV, Leuven, Belgium
   * Duties included
     * Technical insight of high-performance computing (HPC) technology and summarize the strategic value and opportunity to computing business.
-  * Supervisor: Dr. Tingyao Wu
+  * Supervisor: [Dr. Tingyao Wu](https://www.linkedin.com/in/tingyaow/)
 
 * Summer 2015: Postdoc Researcher & Ph.D researcher
   * University of Birmingham, UK
@@ -45,7 +45,7 @@ Work experience
     * Theoretical study and experimental verification on automotive radar signal propagation feature on vehicle infrastructures with the innovated low-THz frequency bands. Two full papers of IEEE Sensors Journal and one conference proceedings have been published or are under final review.
 
     * Build the academic network. Oral presentations on more than five international radar conferences for eight times, and nominated as the best paper of Radar 2022 IET.
-  * Supervisor: Prof. Marina Gashinova, Prof. Mikhail Cherniakov
+  * Supervisor: [Prof. Marina Gashinova](https://www.birmingham.ac.uk/staff/profiles/eese/gashinova-marina), [Prof. Mikhail Cherniakov](https://www.birmingham.ac.uk/staff/profiles/eese/cherniakov-mike)
   
 Skills
 ======
