@@ -20,7 +20,7 @@ Recent news
 
 Nov. 2024, the marketing videos of our sensor calibration products of [online calibration software](https://www.youtube.com/watch?v=5mTBcsLttQY&t=35s) and [misalignment detetection](https://www.youtube.com/watch?v=v0upbUKoufw&t=191s) are availble in zf group official subscription!
 
-Aug. 2024, I joined the radar perception team for the R&D on radar perception software. The project is sponsered by the commercial vehicle solution (CVS) department of ZF group and collaborates with Volvo truck. The milestone achievement is our software is integrated on [RABus](https://www.youtube.com/watch?v=isRtxSoPeFc) L-4 AD vehicles for road user perception feature, and the vehicle is already under operation in Friedrichshaven urban public road! 
+Aug. 2024, I joined the radar perception team for the R&D on radar perception software. The project is sponsored by the commercial vehicle solution (CVS) department of ZF group and collaborates with Volvo truck. The milestone achievement is our software is integrated on [RABus](https://www.youtube.com/watch?v=isRtxSoPeFc) L-4 AD vehicles for road user perception feature, and the vehicle is already under operation in Friedrichshaven urban public road! 
 
 Mar. 2023, I joined the sensor calibration team for the R&D on extrinsic sensor calibration solutions. Our software provide accurate calibration results for L-4 AD vehicles from production line to operation phase. The software are supporting the calibration activities of various projects such as [RABus](https://www.youtube.com/watch?v=isRtxSoPeFc) and [Rivium](https://www.youtube.com/watch?v=m5-rI5n6qng).
 
