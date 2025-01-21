@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Nov. 2022: Research and development software engineer
+* Nov. 2022: Senior research & development software engineer / Product owner
   * 2getthere, a subsidiary of ZF group, in Utrecht, the Netherlands
   * Duties includes: 
     * Software development experience follows V-model and based on C++. Include requirements, architecture, detailed design, implementation, integration, onsite tests, analysis, maintenance and documentation of software system.
