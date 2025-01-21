@@ -17,6 +17,7 @@ My up-to-date CV is available [here](../files/CV_YX.pdf).
 
 Recent news
 =====
+Jan. 2025, I was promoted as the product owner on calibration software products.
 
 Nov. 2024, the marketing videos of our sensor calibration products of [online calibration software](https://www.youtube.com/watch?v=5mTBcsLttQY&t=35s) and [misalignment detetection](https://www.youtube.com/watch?v=v0upbUKoufw&t=191s) are availble in zf group official subscription!
 
